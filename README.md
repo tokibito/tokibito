@@ -11,7 +11,6 @@ Python/Django developer based in Tokyo. Building web applications and contributi
 
 ### 🌏 Community
 
-- [django-docs-ja](https://github.com/django-docs-ja) - Japanese translation of Django documentation
 - [django-ja](https://github.com/django-ja) - Django Japan User Group
 
 ### 💻 Other interests
