@@ -17,7 +17,3 @@ Python/Django developer based in Tokyo. Building web applications and contributi
 ### 💻 Other interests
 
 - Delphi ([delphi-argparse](https://github.com/tokibito/delphi-argparse))
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokibito&show_icons=true&theme=default)
