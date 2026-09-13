@@ -15,4 +15,7 @@ Python/Django developer based in Tokyo. Building web applications and contributi
 
 ### 💻 Other interests
 
-- Delphi ([delphi-argparse](https://github.com/tokibito/delphi-argparse))
+- Delphi
+   - [delphi-argparse](https://github.com/tokibito/delphi-argparse)
+- Node.js / TypeScript
+   - [cssert](https://github.com/tokibito/cssert)
