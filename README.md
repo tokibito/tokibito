@@ -8,6 +8,7 @@ Python/Django developer based in Tokyo. Building web applications and contributi
 - [django-database-task](https://github.com/tokibito/django-database-task) - Database backend for Django 6.0 task framework
 - [django-tasks-redis](https://github.com/tokibito/django-tasks-redis) - Redis/Valkey backend for Django 6.0 task framework
 - [django-tasks-cloud-tasks](https://github.com/tokibito/django-tasks-cloud-tasks) - Google Cloud Tasks backend for Django 6.0 task framework
+- [django-tasks-amazon-sqs](https://github.com/tokibito/django-tasks-amazon-sqs) - Amazon SQS backend for Django 6.0 task framework
 
 ### 🌏 Community
 
